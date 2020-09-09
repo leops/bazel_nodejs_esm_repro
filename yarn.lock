@@ -3,14 +3,14 @@
 
 
 "@bazel/bazelisk@latest":
-  version "1.5.0"
-  resolved "https://registry.yarnpkg.com/@bazel/bazelisk/-/bazelisk-1.5.0.tgz#61f583ed93be138b47be7180403938ea4057f54b"
-  integrity sha512-qhOGN1WmfZYNJXGrRL/0byii9hX5FBomMv3WWI2OEL2+Bxm4t/bR3zMxN3xwQX1C8meSSrAfKGSzxVOZfpJsOg==
+  version "1.6.1"
+  resolved "https://registry.yarnpkg.com/@bazel/bazelisk/-/bazelisk-1.6.1.tgz#f9e279d2fecaf6cec6ed676bc8714846f3704e40"
+  integrity sha512-2JpfZb6eYCGrdLdUJamncIpI4pgEAhPURYGg+rCgqoZDJxzADuOnpf/00dEBXPM2XByXNXTqsKEFN2gTaZz2mA==
 
 "@bazel/buildifier@latest":
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/@bazel/buildifier/-/buildifier-3.2.1.tgz#5f0176b11f159d72d05d3bae6047a038a778fb8e"
-  integrity sha512-rMN3OA3QYUwVj0LaN1Krc9sU46sRVV+S2aybEdtX3n9JGc0H8hxRl1DIurB6ELAFidFZBbNW3cR32p51cYuMHw==
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/@bazel/buildifier/-/buildifier-3.4.0.tgz#44ce98b33bf8057f5398a78f7d1c564760b43f6c"
+  integrity sha512-TdugkgxAIxSyXSBZcLlntQKJ/rGV3LSMjlYuvRr3YtQBn/2sIfpHX0dcNZ7zdCPkev9cK0kpEs42MkmKHY9peQ==
 
 "@bazel/ibazel@latest":
   version "0.13.1"
@@ -18,6 +18,6 @@
   integrity sha512-FO1hBKpzpeBL0adnFYF2Dwl/7gox6ccKM6bb+x26AXrQpLbinXPuTi4zeXRL/MW4383mF6i4RovLCmwUU/YW0w==
 
 graphql@^15.1.0:
-  version "15.1.0"
-  resolved "https://registry.yarnpkg.com/graphql/-/graphql-15.1.0.tgz#b93e28de805294ec08e1630d901db550cb8960a1"
-  integrity sha512-0TVyfOlCGhv/DBczQkJmwXOK6fjWkjzY3Pt7wY8i0gcYXq8aogG3weCsg48m72lywKSeOqedEHvVPOvZvSD51Q==
+  version "15.3.0"
+  resolved "https://registry.yarnpkg.com/graphql/-/graphql-15.3.0.tgz#3ad2b0caab0d110e3be4a5a9b2aa281e362b5278"
+  integrity sha512-GTCJtzJmkFLWRfFJuoo9RWWa/FfamUHgiFosxi/X1Ani4AVWbeyBenZTNX6dM+7WSbbFfTo/25eh0LLkwHMw2w==
